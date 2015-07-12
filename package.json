@@ -1,0 +1,7 @@
+{
+  "name": "test-kafka",
+  "dependencies": {
+    "coap": "^0.10.3",
+    "kafka-node": "^0.2.27"
+  }
+}
